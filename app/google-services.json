@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "545162729812",
+    "firebase_url": "https://wunderapp-1534518954209.firebaseio.com",
+    "project_id": "wunderapp-1534518954209",
+    "storage_bucket": "wunderapp-1534518954209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545162729812:android:4984589d6444ed70",
+        "android_client_info": {
+          "package_name": "com.wunder.wunderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545162729812-et6r8fspk37rt5jnuq3f42t70kpot2iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5nMTsz_zc3fLUQUk_sy6127QFmzprSog"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

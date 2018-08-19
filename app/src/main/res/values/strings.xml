@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WunderApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_list">List</string>
+    <string name="title_map">Map</string>
+
+    <string name="google_maps_api_key">AIzaSyAkXhMy8Si2nzjx9MKliPf4Yeztb-KN3R8</string>
+
+</resources>
